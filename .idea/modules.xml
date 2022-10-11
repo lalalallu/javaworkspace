@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AirlanePath/AirlanePath.iml" filepath="$PROJECT_DIR$/AirlanePath/AirlanePath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArmShiftSchedulingAlgorithm/ArmShiftSchedulingAlgorithm.iml" filepath="$PROJECT_DIR$/ArmShiftSchedulingAlgorithm/ArmShiftSchedulingAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySortTree/BinarySortTree.iml" filepath="$PROJECT_DIR$/BinarySortTree/BinarySortTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CirDoublyList_2/CirDoublyList_2.iml" filepath="$PROJECT_DIR$/CirDoublyList_2/CirDoublyList_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CirdoublyList/CirdoublyList.iml" filepath="$PROJECT_DIR$/CirdoublyList/CirdoublyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DB_login/DB_login.iml" filepath="$PROJECT_DIR$/DB_login/DB_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filecon/Filecon.iml" filepath="$PROJECT_DIR$/Filecon/Filecon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gather/Gather.iml" filepath="$PROJECT_DIR$/Gather/Gather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java3/Java3.iml" filepath="$PROJECT_DIR$/Java3/Java3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javaexam/Javaexam.iml" filepath="$PROJECT_DIR$/Javaexam/Javaexam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Judgment/Judgment.iml" filepath="$PROJECT_DIR$/Judgment/Judgment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Judgment_2/Judgment_2.iml" filepath="$PROJECT_DIR$/Judgment_2/Judgment_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedStack/LinkedStack.iml" filepath="$PROJECT_DIR$/LinkedStack/LinkedStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListModelDataFile/ListModelDataFile.iml" filepath="$PROJECT_DIR$/ListModelDataFile/ListModelDataFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Master/Master.iml" filepath="$PROJECT_DIR$/Master/Master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math_Thead/Math_Thead.iml" filepath="$PROJECT_DIR$/Math_Thead/Math_Thead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math_computer/Math_computer.iml" filepath="$PROJECT_DIR$/Math_computer/Math_computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathjisuan/Mathjisuan.iml" filepath="$PROJECT_DIR$/Mathjisuan/Mathjisuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyString/MyString.iml" filepath="$PROJECT_DIR$/MyString/MyString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQ_true/QQ_true.iml" filepath="$PROJECT_DIR$/QQ_true/QQ_true.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMB/RMB.iml" filepath="$PROJECT_DIR$/RMB/RMB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinglyList_1/SinglyList.iml" filepath="$PROJECT_DIR$/SinglyList_1/SinglyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftwareArchitectureDesign/SoftwareArchitectureDesign.iml" filepath="$PROJECT_DIR$/SoftwareArchitectureDesign/SoftwareArchitectureDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortedSinglyList/SortedSinglyList.iml" filepath="$PROJECT_DIR$/SortedSinglyList/SortedSinglyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManagement/StudentManagement.iml" filepath="$PROJECT_DIR$/StudentManagement/StudentManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_DB/Student_DB.iml" filepath="$PROJECT_DIR$/Student_DB/Student_DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TableModelObjectFile/TableModelObjectFile.iml" filepath="$PROJECT_DIR$/TableModelObjectFile/TableModelObjectFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WR/WR.iml" filepath="$PROJECT_DIR$/WR/WR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YeMianChange/YeMianChange.iml" filepath="$PROJECT_DIR$/YeMianChange/YeMianChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_luoxaun_juzhen/java1.iml" filepath="$PROJECT_DIR$/java_luoxaun_juzhen/java1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaworkspace.iml" filepath="$PROJECT_DIR$/.idea/javaworkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/line/line.iml" filepath="$PROJECT_DIR$/line/line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/norepstring/norepstring.iml" filepath="$PROJECT_DIR$/leetcode/norepstring/norepstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmode/testmode.iml" filepath="$PROJECT_DIR$/testmode/testmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/twonumadd/twonumadd.iml" filepath="$PROJECT_DIR$/leetcode/twonumadd/twonumadd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wr-2/wr-2.iml" filepath="$PROJECT_DIR$/wr-2/wr-2.iml" />
+    </modules>
+  </component>
+</project>

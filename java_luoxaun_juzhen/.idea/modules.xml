@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java work space.iml" filepath="$PROJECT_DIR$/Java work space.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace/java/text/text1.iml" filepath="$PROJECT_DIR$/../../workspace/java/text/text1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace/java/workspace_text.iml" filepath="$PROJECT_DIR$/../../workspace/java/workspace_text.iml" />
+    </modules>
+  </component>
+</project>

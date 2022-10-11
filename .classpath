@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java_luoxaun_juzhen/src"/>
+	<classpathentry kind="src" path="Java3/src"/>
+	<classpathentry kind="src" path="javaline/src"/>
+	<classpathentry kind="output" path="out/production/text"/>
+</classpath>

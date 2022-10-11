@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="leetcode:war">
+    <output-path>$PROJECT_DIR$/leetcode/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>leetcode</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="leetcode-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="leetcode:war exploded" />
+    </root>
+  </artifact>
+</component>
